@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(pink, Purple, skyblue);
+}
+
+#one,
+#two,
+#three,
+#four,
+#five,
+#six {
+    height: 50px width: 100px;
+}
+
+.first {
+    width: 700px;
+}
+
+#myCarousel {
+    width: 50px;
+    margin-top: 35px;
+}
+
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+}
